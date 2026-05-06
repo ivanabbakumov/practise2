@@ -29,5 +29,23 @@
 <img width="854" height="700" alt="image" src="https://github.com/user-attachments/assets/24439f63-2439-444d-b5b6-b00f46ab0bca" />
 Рисунок 5. Разделенный макет под лазерную резку
 
+После процесса резки получаем элементы броши, которые необходимо склеить между собой.
+
+<img width="3024" height="4032" alt="IMG_2756" src="https://github.com/user-attachments/assets/20e332f9-00b3-4d0f-9e69-60309d031adc" />
+Рисунок 6. Отдельные элементы броши
+
+Далее укладываем все элементы в деревянную форму и склеиваем по слоям.
+
+<img width="3024" height="4032" alt="IMG_2758" src="https://github.com/user-attachments/assets/b2797ea0-12a6-470d-982d-c569b1d6282a" />
+Рисунок 7. Результат после нанесения клея
+
+И затем приклеиваем сзади броши иголочку, с ее помощью брошь будет крепиться к одежде.
+
+<img width="3024" height="4032" alt="IMG_2759" src="https://github.com/user-attachments/assets/a9a9047e-ae0b-4808-b483-cbf67e5cdd05" />
+Рисунок 8. Приклееная иголочка
+
+<img width="3024" height="4032" alt="IMG_2789" src="https://github.com/user-attachments/assets/aa52cb91-c4dd-4860-9c62-521bc93e45a6" />
+Рисунок 9. Результат без деревянной формы
+### Подставка под палочки
 
 ## Заключение
